@@ -4,21 +4,23 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 10, 2018
 
 ### Student Name:  
-(First and Last Name)
+Gabriela Llanes
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson uses an API, Ajax, and JSON-formatted
+Data to build an application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://gml16f.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. Building an application using an Application Programming Interface (API)
+2. Parse JSON data from an HTTP response message
+3.  Use Ajax methods and properties that allow the Client to send an HTTP Request and receive back an
+HTTP Response
+4. An application-programming interface (API) is a set of programming instructions and standards for accessing a
+Web-based software application or Web tool.
+5. APIs are becoming a crucial part of the Web and Web Development.
